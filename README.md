@@ -1,7 +1,7 @@
 # Evangelion-typora-theme
 An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, based on the color scheme of Neon Genesis Evangelion. 
 
-![eva0](https://camo.githubusercontent.com/ebe5adcb679ddbd67500cdad7b217911971dd10f5ee058252c0024e51b649fbf/68747470733a2f2f73322e6c6f6c692e6e65742f323032312f31322f31332f634a59565367576a6d3479454139722e6a7067.jpg)
+![eva0](https://camo.githubusercontent.com/ebe5adcb679ddbd67500cdad7b217911971dd10f5ee058252c0024e51b649fbf/68747470733a2f2f73322e6c6f6c692e6e65742f323032312f31322f31332f634a59565367576a6d3479454139722e6a7067)
 
 ## Feature
 
