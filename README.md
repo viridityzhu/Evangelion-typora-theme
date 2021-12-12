@@ -1,7 +1,7 @@
 # Evangelion-typora-theme
 An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, based on the color scheme of Neon Genesis Evangelion. 
 
-![eva0](https://s2.loli.net/2021/12/13/cJYVSgWjm4yEA9r.jpg)
+![eva0](eva0.png)
 
 ## Feature
 
@@ -12,11 +12,11 @@ An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, bas
 
 ## Screenshots
 
-![套娃现场](https://s2.loli.net/2021/12/12/WV3miXj6ZCSx41o.png)
+![套娃现场](eva1.png)
 
 <p float="left">
-  <img src="https://s2.loli.net/2021/12/12/Qo5WEZLNHvRBVa9.png" width="49%" />
-  <img src="https://s2.loli.net/2021/12/12/VRmCIyrnlG7uikA.png" width="49%" /> 
+  <img src="eva2.png" width="49%" />
+  <img src="eva3.png" width="49%" /> 
 </p>
 
 
