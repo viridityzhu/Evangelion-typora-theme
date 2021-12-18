@@ -24,7 +24,7 @@ An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, bas
 
 ## Install
 
-- Download the `Eva.css` file: see [releases](https://github.com/viridityzhu/Evangelion-typora-theme/releases).
+- Download the `eva.css` file: see [releases](https://github.com/viridityzhu/Evangelion-typora-theme/releases).
 - Copy and paste the file in to the **Typora Theme Folder**:
   - `Preferences…` > `Appearence` > `Open Theme Folder`.
 - Restart Typora, then select `Theme` > `Eva` to apply.
