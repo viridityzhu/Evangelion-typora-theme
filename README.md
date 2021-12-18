@@ -27,10 +27,10 @@ An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, bas
 - Download the `eva.css` file: see [releases](https://github.com/viridityzhu/Evangelion-typora-theme/releases).
 - Copy and paste the file in to the **Typora Theme Folder**:
   - `Preferences…` > `Appearence` > `Open Theme Folder`.
-- Restart Typora, then select `Theme` > `Eva` to apply.
+- Restart Typora, then select `Theme` > `eva` to apply.
 
 安装：
-- 下载`Eva.css`文件: [releases](https://github.com/viridityzhu/Evangelion-typora-theme/releases)
+- 下载`eva.css`文件: [releases](https://github.com/viridityzhu/Evangelion-typora-theme/releases)
 - 将该文件粘贴到**Typora主题文件夹**中：
   - `偏好设置` > `外观` > `打开主题文件夹`
 - 重启Typora，然后选择`主题` > `eva`，主题即可生效。
