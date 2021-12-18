@@ -1,4 +1,6 @@
 # Evangelion-typora-theme
+[![Github All Releases](https://img.shields.io/github/downloads/viridityzhu/Evangelion-typora-theme/total.svg)]()
+
 An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, based on the color scheme of Neon Genesis Evangelion. 
 
 ![eva0](eva0.png)
@@ -31,9 +33,8 @@ An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, bas
 - 下载`Eva.css`文件: [releases](https://github.com/viridityzhu/Evangelion-typora-theme/releases)
 - 将该文件粘贴到**Typora主题文件夹**中：
   - `偏好设置` > `外观` > `打开主题文件夹`
-- 重启Typora，然后选择`主题` > `Eva`，主题即可生效。
+- 重启Typora，然后选择`主题` > `eva`，主题即可生效。
 
-<!-- [![Github All Releases](https://img.shields.io/github/downloads/viridityzhu/Evangelion-typora-theme/total.svg)]() -->
 
 ## Reference
 
