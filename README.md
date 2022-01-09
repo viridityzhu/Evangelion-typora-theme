@@ -1,5 +1,5 @@
 # Evangelion-typora-theme
-[![Github All Releases](https://img.shields.io/github/downloads/viridityzhu/Evangelion-typora-theme/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/viridityzhu/Evangelion-typora-theme/total.svg)]() (If you like it, please give it a star! I really appreciate it!)
 
 An eye-friendly dark theme for [Typora](https://typora.io/) Markdown Editor, based on the color scheme of Neon Genesis Evangelion. 
 
