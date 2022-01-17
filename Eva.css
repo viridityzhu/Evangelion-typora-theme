@@ -371,8 +371,11 @@ hr {
 }
 .cm-s-typora-default .cm-link {
     color:var(--deep-theme-color);
-
 }
+.cm-s-typora-default .cm-comment, .cm-s-typora-default .cm-code {
+  color: #8aa1e1;
+}
+
 /*code block*/
 #write .md-fences {
   font-size: 1rem;
