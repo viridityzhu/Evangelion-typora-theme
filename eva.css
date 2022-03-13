@@ -45,6 +45,10 @@ body {
   margin: 0;
 }
 
+strong .md-plain {
+  color: #ff0000;
+}
+
 #write {
   max-width: 900px;
   padding: 30px 50px 20px;
